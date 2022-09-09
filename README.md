@@ -1,5 +1,5 @@
-# CodeFamily
-Data-Science-Internship
+# Data-Science-Internship
+
 TASK 2
 1)You have to given a String and you have to swap that String In Other words Convert all the lowercase letter into Uppercase letter vice versa
 Sample Input : Hello Code Family
